@@ -1,16 +1,16 @@
-## Hi there 👋
+## Anderson Ekechi — Systems Architect
 
-<!--
-**andersonekechi/andersonekechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [BaceFlip](https://baceflip.com). I build apps, AI, and messaging infrastructure for Africa. LLB (Babcock).
 
-Here are some ideas to get you started:
+**From vision to vector.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I build with
+`React` `Node.js` `Python` `WebSocket` `Three.js` `R3F` `Paystack` `Linux`
+
+### Live products
+- [MayaWallet](https://apps.apple.com/ie/app/mayawallet/id6769870540) — event ticketing on App Store
+- [GsResponder](https://gsresponder.co) — remote IT management platform
+- [GSCF SMS Gateway](https://sms.gscf.online) — Android bulk SMS
+
+### Contact
+[Portfolio](https://andersonekechi.com) · [BaceFlip](https://baceflip.com)
